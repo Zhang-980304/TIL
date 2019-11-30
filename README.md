@@ -5,5 +5,5 @@ Today I Learned
 ## 선배님 스타디
 ## 장소: GFC
 ## 배운내용:   
-  ## Github
-  ## Notion
+  ##  Github
+  ##  Notion
